@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Teja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center"><img height="400" src="https://i.ibb.co/zf21NqB/21.png"></p>
 
